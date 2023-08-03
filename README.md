@@ -26,3 +26,6 @@ package='open_manipulator_p_controller',
 executable='open_manipulator_p_controller',
 ```
 (referenced from https://github.com/benbongalon/ros2-urdf-tutorial/issues/2)
+
+
++ installed https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/#firmware-update
